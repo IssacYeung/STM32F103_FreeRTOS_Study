@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>YS-F1Pro/YS-F1Pro</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>194</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build></Static>
+    <Windows>
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10533-20683</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>YS-F1Pro</ExpandedNode><ExpandedNode>YS-F1Pro/Application</ExpandedNode><ExpandedNode>YS-F1Pro/Drivers</ExpandedNode><ExpandedNode>YS-F1Pro/Middlewares</ExpandedNode><ExpandedNode>YS-F1Pro/Middlewares/FreeRTOS</ExpandedNode><ExpandedNode>YS-F1Pro/Readme</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4><Tabs><Tab><Identity>TabID-26802-20788</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd4></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Readme\01.&#x4F8B;&#x7A0B;&#x529F;&#x80FD;&#x8BF4;&#x660e;.txt</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\stm32f1xx_it.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>30</YPos2><SelStart2>2122</SelStart2><SelEnd2>2122</SelEnd2></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00225148><key>iaridepm.enu1</key></Toolbar-00225148></Sizes></Row0></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>523</Bottom><Right>268</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>143</yscreen><sizeHorzCX>211864</sizeHorzCX><sizeHorzCY>201693</sizeHorzCY><sizeVertCX>286017</sizeVertCX><sizeVertCY>740480</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>141</Bottom><Right>946</Right><x>-2</x><y>-2</y><xscreen>948</xscreen><yscreen>143</yscreen><sizeHorzCX>1004237</sizeHorzCX><sizeHorzCY>201693</sizeHorzCY><sizeVertCX>211864</sizeVertCX><sizeVertCY>201693</sizeVertCY></Rect></Wnd4></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
